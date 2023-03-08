@@ -6,3 +6,4 @@ git push origin main
 gh pr repo create 
 git checkout main 
 git status 
+git pull 
