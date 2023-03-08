@@ -5,3 +5,4 @@ git commit -m
 git push origin main 
 gh pr repo create 
 git checkout main 
+git status 
