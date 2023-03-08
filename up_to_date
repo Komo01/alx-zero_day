@@ -1,0 +1,7 @@
+git checkout -b "update_script" 
+git rm -r js 
+git add 
+git commit -m 
+git push origin main 
+gh pr repo create 
+git checkout main 
